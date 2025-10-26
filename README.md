@@ -1,6 +1,6 @@
 <p align="left"><img width="200" height="100" src="https://github.com/christianhaitian/arkos/raw/main/devices/ArkOSLogoOreoTransparent.bmp">
 </p>
-Another rockchip Operating System!
+Another rockchip Operating System
 
 ![ArkOS boot up screen](pics/logo.png)
 
